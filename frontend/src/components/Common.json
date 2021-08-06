@@ -1,0 +1,16 @@
+
+{
+   "API" : "http://127.0.0.1:8000",
+   "RegisterAPI" :"http://127.0.0.1:8000/api/Register/" ,
+   "LoginAPI" : "http://127.0.0.1:8000/api/Login/",
+   "LogoutAPI" : "http://127.0.0.1:8000/api/Logout/",
+   "CountAPI" : "http://127.0.0.1:8000/api/Count/",
+   "WriteBlogAPI" : "http://127.0.0.1:8000/api/Write/",
+   "LikeBlogAPI":  "http://127.0.0.1:8000/api/LikeBlog/" ,
+   "CommentBlogAPI":  "http://127.0.0.1:8000/api/CommentBlog/" ,
+   "SendPaymentRequestAPI":  "http://127.0.0.1:8000/api/SendPayRequest/" ,
+
+   "UserHomePageURL" : "user/",
+   "RegisterPageURL" : "/",
+   "WriteBlogPageURL" : "write/"
+}

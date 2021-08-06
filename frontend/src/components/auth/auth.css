@@ -1,0 +1,46 @@
+.box {
+  background-color: rgb(204, 206, 205);
+  color: rgb(212, 144, 18);
+  width: 50%;
+  height: 650px;
+  margin-top: 30px;
+  border-radius: 30px;
+  box-shadow: 5px 5px rgb(113, 240, 145);
+}
+body {
+  background-color: rgb(64, 74, 87);
+}
+
+.heading {
+  font-size: 25px;
+  font-family: American Typewriter;
+  color: black;
+  margin: 0px;
+  padding-top: 10px;
+}
+.form-control {
+  width: 50%;
+  height: 30px;
+  border-radius: 20px;
+  margin-top: 10px;
+  padding-left: 15px;
+}
+
+.form-group {
+  padding: 15px;
+}
+
+.form-group label {
+  color: black;
+  font-size: 20px;
+  font-family: monospace;
+}
+
+.submitButton {
+  background-color: rgb(10, 134, 192);
+  color: white;
+  font-size: 25px;
+  width: 200px;
+  height: 40px;
+  border-radius: 20px;
+}
